@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e7b9ef8-7fbd-46f7-b4ef-ec9f9b61821c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/arrowBG.png" afterPath="$PROJECT_DIR$/img/arrowBG.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/av-blaz.png" afterPath="$PROJECT_DIR$/img/av-blaz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/av-doge.png" afterPath="$PROJECT_DIR$/img/av-doge.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/av-pete.png" afterPath="$PROJECT_DIR$/img/av-pete.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/footer-logo.png" afterPath="$PROJECT_DIR$/img/footer-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hero.jpg" afterPath="$PROJECT_DIR$/img/hero.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/ipadBG.png" afterPath="$PROJECT_DIR$/img/ipadBG.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="9e7b9ef8-7fbd-46f7-b4ef-ec9f9b61821c" name="Default" comment="" />
     <ignored path="CocktailViz.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="192" column="50" selection-start-line="192" selection-start-column="50" selection-end-line="192" selection-end-column="50" />
+            <state relative-caret-position="345">
+              <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -153,12 +143,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463382290609</updated>
-      <workItem from="1463382294776" duration="13376000" />
+      <workItem from="1463382294776" duration="13600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13376000" />
+    <option name="totallyTimeSpent" value="13600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -208,8 +198,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="192" column="50" selection-start-line="192" selection-start-column="50" selection-end-line="192" selection-end-column="50" />
+        <state relative-caret-position="345">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
           <folding />
         </state>
       </provider>
